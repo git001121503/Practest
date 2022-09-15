@@ -52,3 +52,14 @@ C:\TAFESA\2021_S2\5TSD\Resources\Session04\StudentFiles\Ticketing\Ticketing\obj\
 C:\TAFESA\2021_S2\5TSD\Resources\Session04\StudentFiles\Ticketing\Ticketing\obj\Debug\Ticketing.csproj.CoreCompileInputs.cache
 C:\TAFESA\2021_S2\5TSD\Resources\Session04\StudentFiles\Ticketing\Ticketing\obj\Debug\Ticketing.exe
 C:\TAFESA\2021_S2\5TSD\Resources\Session04\StudentFiles\Ticketing\Ticketing\obj\Debug\Ticketing.pdb
+C:\Practest\Practest\Ticketing\Ticketing\bin\Debug\Ticketing.exe.config
+C:\Practest\Practest\Ticketing\Ticketing\bin\Debug\Ticketing.exe
+C:\Practest\Practest\Ticketing\Ticketing\bin\Debug\Ticketing.pdb
+C:\Practest\Practest\Ticketing\Ticketing\obj\Debug\Ticketing.csproj.AssemblyReference.cache
+C:\Practest\Practest\Ticketing\Ticketing\obj\Debug\Ticketing.csproj.SuggestedBindingRedirects.cache
+C:\Practest\Practest\Ticketing\Ticketing\obj\Debug\Ticketing.Properties.Resources.resources
+C:\Practest\Practest\Ticketing\Ticketing\obj\Debug\Ticketing.TicketsForm.resources
+C:\Practest\Practest\Ticketing\Ticketing\obj\Debug\Ticketing.csproj.GenerateResource.cache
+C:\Practest\Practest\Ticketing\Ticketing\obj\Debug\Ticketing.csproj.CoreCompileInputs.cache
+C:\Practest\Practest\Ticketing\Ticketing\obj\Debug\Ticketing.exe
+C:\Practest\Practest\Ticketing\Ticketing\obj\Debug\Ticketing.pdb
